@@ -37,7 +37,7 @@ export const siteConfig = {
   //   twitter: `${env.NEXT_PUBLIC_TWITTER}`,
   //   github: 'https://github.com/bitfreee/movie-web-kickstart',
   //   githubAccount: '',
-  },
+  // },
   socialLinks: [
     {
       title: 'Facebook',
