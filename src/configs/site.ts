@@ -60,7 +60,7 @@ export const siteConfig = {
       icon: Icons.youtube,
     },
   ],
-  // footerItems: [
+  footerItems: [
   // { title: 'Audio Description', href: '/' },
   // { title: 'Help Center', href: '/' },
   // { title: 'Gift Cards', href: '/' },
@@ -73,7 +73,7 @@ export const siteConfig = {
   // { title: 'Cookie Preferences', href: '/' },
   // { title: 'Corporate Information', href: '/' },
   // { title: 'Contact Us', href: '/' },
-  // ],
+  ],
   mainNav: [
     {
       title: 'Home',
